@@ -1,3 +1,4 @@
+
 # E-Commerce Database Migration Project
 
 This project demonstrates the migration of a relational MySQL database to a NoSQL MongoDB database using Python.
@@ -75,3 +76,5 @@ Example structure of it:
   ]
 }
 
+# ecommerce-nosql-project
+NoSQL project worked with multiple tools.
